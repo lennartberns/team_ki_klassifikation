@@ -29,3 +29,10 @@ conda update spacy
 ```
 
 Am Ende den Kernel neu starten.
+
+## Dataloader Installationen
+
+### Sprachpakete Spacy:
+```
+conda install -c conda-forge spacy-model-de_core_news_lg
+```
