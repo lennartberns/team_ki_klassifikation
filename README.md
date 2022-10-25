@@ -3,6 +3,29 @@
 ## Installationen
 ```
 conda install -c anaconda openpyxl
-
-conda install -c conda-forge spacy
 ```
+```
+conda install -c pytorch torchtext
+```
+## Fehler Import Spacy beheben
+
+```
+conda uninstall spacy
+```
+```
+conda uninstall wasabi
+```
+
+```
+conda install wasabi=0.9.1
+```
+
+```
+conda install -c conda-forge spacy 
+```
+
+```
+conda update spacy
+```
+
+Am Ende den Kernel neu starten.
