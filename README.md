@@ -36,3 +36,7 @@ Am Ende den Kernel neu starten.
 ```
 conda install -c conda-forge spacy-model-de_core_news_lg
 ```
+oder
+```
+conda install -c conda-forge spacy-model-de_core_news_sm
+```
